@@ -2,7 +2,6 @@
 title: "ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain"
 collection: publications
 permalink: /publication/eacl2021-chemu-ref
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-19
 venue: 'Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
