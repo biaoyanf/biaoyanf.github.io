@@ -2,11 +2,10 @@
 title: "ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain"
 collection: publications
 permalink: /publication/eacl2021-chemu-ref
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-19
 venue: 'Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume'
 paperurl: 'https://aclanthology.org/2021.eacl-main.116.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '<b> Biaoyan Fang </b>, Christian Druckenbrodt, Saber A Akhondi, Jiayuan He, Timothy Baldwin, Karin Verspoor (2021) <a href='http://biaoaynf.github.io/files/papers/xxx.pdf'><u>ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain</u></a>. In <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics/i>, virtual conference, pp. 1362–1375.'
 ---
 
 <!-- ---
