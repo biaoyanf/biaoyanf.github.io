@@ -31,7 +31,15 @@
     .page__share {
       @include full();
     }
+    
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
   }
+
+  
 }
 
 .page__title {
