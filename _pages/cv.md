@@ -16,7 +16,7 @@ Education
 ======
 * Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2022 (expected)
 * B.Eng. Information Security, Sun Yat-sen University, 2018 
-  * GPA: 3.8 /4.0 | Ranking: 1 /72 
+  * GPA: 3.8 /4.0, Ranking: 1 /72 
 
 
 Professional Experience
