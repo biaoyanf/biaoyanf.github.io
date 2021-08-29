@@ -9,32 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+CV can be downloaded <a href="https://biaoyanf.github.io/files/cv/cv.pdf"><u>here</u></a>
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2022 (expected)
+* B.Eng. Information Security, Sun Yat-sen University, 2018 
+  * GPA: 3.8 /4.0 | Ranking: 1 /72 
 
-Work experience
+
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Tutor at School of Computing and Information Systems, University of Melbourne (VIC, Australia), 2020, Semester 1
+  * Course: Natural Language Processing COMP90042 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant at InplusLab, Sun Yat-sen University (Guangzhou, China), Apr, 2017-Jun, 2018
+  * Detailed Achievements: 1. Implemented HTCondor distributed framework to support high throughput computing; 2. Utilized NLP methods for news detection task, which predict if it is written by machine. 3. "Sequential topology recovery of complex power systems based on reinforcement learning", paper accepted at journal: Physica A: Statistical Mechanics and its Applications  
+  * Supervisor: Prof. Zibin Zheng and A/Prof. Jiajing Wu
+
+<!-- * Tutor at School of Data and Computer Science, Sun Yat-sen University (Guangzhou, China), 2017, Semester 2
+  * Course: Data structures and Algorithms -->
+
+Awards and Additional Certificates
+======
+* 2018-Present Melbourne Research Scholarship
+* 2017 The First Class Scholarship (Top 5% at school)
+* 2017 1st Prize, The 26th Software Design Competition, GuangDong
+* 2016 The First Class Scholarship (Top 5% at school)
+* 2016 National Scholarship (Top 1% nationwide)
+* 2015 Panasonic Donation Scholarship (Top 1% at school)
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Primary language: Python 
+
+<!-- 
+Languages
+======
+* English: Full Professional Proficiency
+* Chinese: Native or Bilingual Proficiency -->
+
+
+
 
 Publications
 ======
@@ -42,7 +60,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +70,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
