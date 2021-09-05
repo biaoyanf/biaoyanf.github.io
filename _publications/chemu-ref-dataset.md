@@ -13,7 +13,7 @@ pubtype: datasets
 ```
 @misc{chemrefdataset,
     author = {Fang, Biaoyan and Druckenbrodt, Christian and Yeow Hui Shiuan, Colleen and Novakovic, Sacha and Hössel, Ralph and Akhondi, Saber A.\ and He, Jiayuan and Mistica, Meladel and Baldwin, Timothy and Verspoor, Karin},
-    title = {{ChEMU-Ref} dataset for Modeling Anaphora Resolution in the Chemical Domain},
+    title = {ChEMU-Ref dataset for Modeling Anaphora Resolution in the Chemical Domain},
     year=2021,
     url = {https://doi.org/10.17632/r28xxr6p92},
     howpublished = {Mendeley Data}}
