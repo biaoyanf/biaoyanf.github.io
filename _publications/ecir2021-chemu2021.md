@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ecir2021-chemu2021
 date: 2021-03-28
 venue: 'Proceedings of the 43rd European Conference on Information Retrieval'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-72240-1_71
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-72240-1_71'
 paperurltext: 'Link to Springer'
 citation: 'Jiayuan He, <b>Biaoyan Fang</b>, Hiyori Yoshikawa, Saber A. Akhondi, Christian Druckenbrodt, Camilo Thorne, Zubair Afzal, Zenan Zhai, Lawrence Cavedon, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2021) <a href="http://biaoyanf.github.io/files/papers/ecir2021-chemu2021.pdf"><u>ChEMU 2021: Reaction Reference Resolution and Anaphora Resolution in Chemical Patents</u></a>. In <i>Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)</i>, virtual conference'
 pubtype: publications
