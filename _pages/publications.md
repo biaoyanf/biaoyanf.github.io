@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,14 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 
-<h1>Publications</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'publications' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h1>Datasets</h1>
+<h1>Datasets</h1  >
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'datasets' %}
       {% include archive-single.html %}
