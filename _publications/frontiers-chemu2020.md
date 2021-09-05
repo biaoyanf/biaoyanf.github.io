@@ -6,7 +6,7 @@ date: 2021-03-25
 venue: 'Frontiers in Research Metrics and Analytics'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/frma.2021.654438/full'
 paperurltext: 'Link to Frontiers'
-citation: 'Jiayuan He, Dat Quoc Nguyen, Saber A. Akhondi, Christian Druckenbrodt, Camilo Thorne, Ralph Hoessel, Zubair Afzal, Zenan Zhai, <b>Biaoyan Fang</b>, Hiyori Yoshikawa, Ameer Albahem, Lawrence Cavedon, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2021) <a href="http://biaoyanf.github.io/files/papers/frontiers-chemu2020.pdf"><u>ChEMU 2020: Natural Language Processing Methods Are Effective for Information Extraction From Chemical Patents</u></a>. <i>Frontiers in Research Metrics and Analytics 6'
+citation: 'Jiayuan He, Dat Quoc Nguyen, Saber A. Akhondi, Christian Druckenbrodt, Camilo Thorne, Ralph Hoessel, Zubair Afzal, Zenan Zhai, <b>Biaoyan Fang</b>, Hiyori Yoshikawa, Ameer Albahem, Lawrence Cavedon, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2021) <a href="http://biaoyanf.github.io/files/papers/frontiers-chemu2020.pdf"><u>ChEMU 2020: Natural Language Processing Methods Are Effective for Information Extraction From Chemical Patents</u></a>. <i>Frontiers in Research Metrics and Analytics 6</i>'
 pubtype: publications
 ---
 
