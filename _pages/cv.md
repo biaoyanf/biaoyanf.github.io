@@ -62,9 +62,6 @@ Publications
     {% endif %}
   {% endfor %}</ul>
 
-  <!-- <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 Datasets
 ======
@@ -73,6 +70,13 @@ Datasets
         {% include archive-single.html %}
     {% endif %}
   {% endfor %}</ul>
+
+
+<!-- <ul>{% for post in site.publications reversed%}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul> -->
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -83,4 +87,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> --> 
