@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
-
+<!-- 
 <h2>Publications</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'publications' %}
@@ -28,4 +28,4 @@ author_profile: true
   {% if post.pubtype == 'datasets' %}
       {% include archive-single.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->
