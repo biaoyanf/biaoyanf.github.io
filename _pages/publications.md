@@ -16,14 +16,14 @@ author_profile: true
 {% endfor %} -->
 
 
-<h2>Publications</h2>
+<h1>Publications</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'publications' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Datasets</h2>
+<h1>Datasets</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'datasets' %}
       {% include archive-single.html %}
