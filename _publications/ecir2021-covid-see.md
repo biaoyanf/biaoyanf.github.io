@@ -6,7 +6,7 @@ date: 2021-03-28
 venue: 'Proceedings of the 43rd European Conference on Information Retrieval'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/978-3-030-72240-1_65.pdf'
 paperurltext: 'Link to Springer'
-citation: 'Karin Verspoor, Simon Šuster, Yulia Otmakhova, Shevon Mendis, Zenan Zhai, <b>Biaoyan Fang<\b>, Jey Han Lau, Timothy Baldwin, Antonio Jimeno-Yepes and David Martinez (2021) <a href="http://biaoyanf.github.io/files/papers/ecir2021-covid-see.pdf"><u>ChEMU 2021: Reaction Reference Resolution and Anaphora Resolution in Chemical Patents</u></a>. In <i>Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)</i>, virtual conference'
+citation: 'Karin Verspoor, Simon Šuster, Yulia Otmakhova, Shevon Mendis, Zenan Zhai, <b>Biaoyan Fang</b>, Jey Han Lau, Timothy Baldwin, Antonio Jimeno-Yepes and David Martinez (2021) <a href="http://biaoyanf.github.io/files/papers/ecir2021-covid-see.pdf"><u>Brief Description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research</u></a>. In <i>Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)</i>, virtual conference'
 pubtype: publications
 ---
 
