@@ -6,7 +6,7 @@ date: 2020-04-14
 venue: 'Proceedings of the 42rd European Conference on Information Retrieval'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-45442-5_74'
 paperurltext: 'Link to Springer'
-citation: 'Dat Quoc Nguyen, Zenan Zhai, Hiyori Yoshikawa, <b>Biaoyan Fang<\b>, Christian Druckenbrodt, Camilo Thorne, Ralph Hoessel, Saber A. Akhondi, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2020) <a href="http://biaoyanf.github.io/files/papers/ecir2020-chemu2020.pdf"><u>ChEMU: Named Entity Recognition and Event Extraction of Chemical Reactions from Patents</u></a>. In <i>Proceedings of the 42rd European Conference on Information Retrieval (ECIR 2020)</i>,  Lisbon, Portugal.'
+citation: 'Dat Quoc Nguyen, Zenan Zhai, Hiyori Yoshikawa, <b>Biaoyan Fang</b>, Christian Druckenbrodt, Camilo Thorne, Ralph Hoessel, Saber A. Akhondi, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2020) <a href="http://biaoyanf.github.io/files/papers/ecir2020-chemu2020.pdf"><u>ChEMU: Named Entity Recognition and Event Extraction of Chemical Reactions from Patents</u></a>. In <i>Proceedings of the 42rd European Conference on Information Retrieval (ECIR 2020)</i>,  Lisbon, Portugal.'
 pubtype: publications
 ---
 
