@@ -25,7 +25,7 @@ Professional Experience
   * Course: Natural Language Processing COMP90042 
 
 * Research Assistant at InplusLab, Sun Yat-sen University (Guangzhou, China), Apr, 2017-Jun, 2018
-  * Detailed Achievements: 1. Implemented HTCondor distributed framework to support high throughput computing; 2. Utilized NLP methods for news detection task, which predict if it is written by machine. 3. "Sequential topology recovery of complex power systems based on reinforcement learning", paper accepted at journal: Physica A: Statistical Mechanics and its Applications  
+  * Detailed Achievements: 1. Implemented HTCondor distributed framework to support high throughput computing; 2. Utilized NLP methods for news detection task, predicting if it is written by machine. 3. "Sequential topology recovery of complex power systems based on reinforcement learning", paper accepted at journal: Physica A: Statistical Mechanics and its Applications  
   * Supervisor: Prof. Zibin Zheng and A/Prof. Jiajing Wu
 
 <!-- * Tutor at School of Data and Computer Science, Sun Yat-sen University (Guangzhou, China), 2017, Semester 2
