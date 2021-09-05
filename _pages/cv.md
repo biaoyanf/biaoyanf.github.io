@@ -56,10 +56,23 @@ Languages
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed%}
+  <!-- <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  <ul>{% for post in site.publications reversed %}
+    {% if post.pubtype == 'publications' %}
+        {% include archive-single.html %}
+    {% endif %}
   {% endfor %}</ul>
-  
+
+
+Datasets
+======
+  <ul>{% for post in site.publications reversed %}
+    {% if post.pubtype == 'datasets' %}
+        {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}</ul>
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
