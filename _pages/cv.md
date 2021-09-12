@@ -38,7 +38,7 @@ Awards and Additional Certificates
 ======
 * 2018-Present Melbourne Research Scholarship
 * 2017 The First Class Scholarship (Top 5% at school)
-* 2017 1st Prize, The 26th Software Design Competition, GuangDong
+* 2017 The First Prize, The 26th Software Design Competition, GuangDong
 * 2016 The First Class Scholarship (Top 5% at school)
 * 2016 National Scholarship (Top 1% nationwide)
 * 2015 Panasonic Donation Scholarship (Top 1% at school)
