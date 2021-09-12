@@ -26,8 +26,8 @@ Professional Experience
 
 * Research Assistant at InplusLab, Sun Yat-sen University (Guangzhou, China), Apr, 2017-Jun, 2018
   * Detailed Achievements: 
-    * Implemented HTCondor distributed framework to support high throughput computing
     * Utilized NLP methods for news detection task, predicting if it is written by machine 
+    * Implemented HTCondor distributed framework to support high throughput computing
     * Jiajing Wu, Biaoyan Fang, Junyuan Fang, Xi Chen and Chi K. Tse. "Sequential topology recovery of complex power systems based on reinforcement learning", In <i>journal: Physica A: Statistical Mechanics and its Applications</i>, Vol. 535, 2019 <a href="https://www.sciencedirect.com/science/article/pii/S037843711931427X"><u>[Paper Link]</u></a>
   * Supervisor: Prof. Zibin Zheng and A/Prof. Jiajing Wu
 
