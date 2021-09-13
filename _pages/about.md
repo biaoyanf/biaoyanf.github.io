@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Biaoyan Fang (or call me Byron :D). I am currently a fourth-year PhD student in natural language processing at The University of Melbourne under the supervision of [Prof. Karin Verspoor](https://findanexpert.unimelb.edu.au/profile/458973-karin-verspoor) and [Prof. Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/).
+Hello! I am Biaoyan Fang (or call me Byron :D). I am a fourth-year PhD student in natural language processing at The University of Melbourne under the supervision of [Prof. Karin Verspoor](https://findanexpert.unimelb.edu.au/profile/458973-karin-verspoor) and [Prof. Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/).
 
 My research focuses on anaphora resolution.
 
