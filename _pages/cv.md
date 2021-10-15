@@ -71,7 +71,7 @@ Datasets
 ======
   <ul>{% for post in site.publications reversed %}
     {% if post.pubtype == 'datasets' %}
-        {% include archive-single.html %}
+        {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
 
