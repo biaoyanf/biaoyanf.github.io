@@ -14,7 +14,7 @@ pubtype: publications
 @inproceedings{keto-etal-2021-alta,
     title = "Handling Variance of Pretrained Language Models in Grading Evidence in the Medical Literature",
     author = "Keto, Fajri and
-      Fang, Biaoyan,
+      Fang, Biaoyan",
     booktitle = "Proceedings of the Australasian Language Technology Association Workshop 2021 (ALTA 2021)",
     year = "2021",
     address = "Online",
