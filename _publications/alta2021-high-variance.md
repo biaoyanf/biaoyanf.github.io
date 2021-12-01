@@ -2,7 +2,7 @@
 title: "Handling Variance of Pretrained Language Models in Grading Evidence in the Medical Literature"
 collection: publications
 permalink: /publication/alta2021-high-variance
-date: 2021
+date: 2021-12-08
 venue: 'Proceedings of the Australasian Language Technology Association Workshop 2021'
 paperurl: 'http://biaoyanf.github.io/files/papers/alta2021-high-variance.pdf'
 paperurltext: 'Link to Paper'
@@ -15,7 +15,7 @@ pubtype: publications
     title = "Handling Variance of Pretrained Language Models in Grading Evidence in the Medical Literature",
     author = "Keto, Fajri and
       Fang, Biaoyan",
-    booktitle = "Proceedings of the Australasian Language Technology Association Workshop 2021 (ALTA 2021)",
+    booktitle = "Proceedings of the Australasian Language Technology Association Workshop 2021  (ALTA 2021)",
     year = "2021",
     address = "Online",
 
