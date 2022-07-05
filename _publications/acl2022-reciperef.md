@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/acl2022-reciperef.md
 date: 2022-05-22    
 venue: 'Finding of ACL 2022'
-paperurl: 'https://aclanthology.org/'
+paperurl: 'https://aclanthology.org/2022.findings-acl.275/'
 paperurltext: 'Link to ACL anthology'
 citation: '<b>Biaoyan Fang</b>, Timothy Baldwin and Karin Verspoor (2022) <a href="http://biaoyanf.github.io/files/papers/acl2022-reciperef.pdf"><u>What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text</u></a>. In <i>Findings of ACL 2022</i>, Dublin, Ireland.'
 pubtype: publications
