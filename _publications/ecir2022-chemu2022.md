@@ -6,7 +6,7 @@ date: 2022-08-10
 venue: 'Proceedings of the 44rd European Conference on Information Retrieval'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-99739-7_50'
 paperurltext: 'Link to Springer'
-citation: 'Yuan Li, <b>Biaoyan Fang</b>, Jiayuan He, Hiyori Yoshikawa, Saber A. Akhondi, Christian Druckenbrodt, Camilo Thorne, Zenan Zhai, Zubair Afzal, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2022) <a href="http://biaoyanf.github.io/files/papers/ecir2022-chemu2022.pdf"><u>The ChEMU 2022 Evaluation Campaign: Information Extraction in Chemical Patents</u></a>. In <i>Proceedings of the 44rd European Conference on Information Retrieval (ECIR 2022)</i>, Stavanger, Norway'
+citation: 'Yuan Li, <b>Biaoyan Fang</b>, Jiayuan He, Hiyori Yoshikawa, Saber A. Akhondi, Christian Druckenbrodt, Camilo Thorne, Zenan Zhai, Zubair Afzal, Trevor Cohn, Timothy Baldwin and Karin Verspoor (2022) <a href="http://biaoyanf.github.io/files/papers/ecir2022-chemu2022.pdf"><u>The ChEMU 2022 Evaluation Campaign: Information Extraction in Chemical Patents</u></a>. In <i>Proceedings of the 44rd European Conference on Information Retrieval (ECIR 2022)</i>, Stavanger, Norway.'
 pubtype: publications
 ---
 
