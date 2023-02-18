@@ -21,6 +21,11 @@ Education
 
 Professional Experience
 ======
+* Research Fellow in Bias in NLP, University of Melbourne (VIC, Australia), Jun,2022-Present 
+  * Detailed achievements:
+    * Created and prepared a multi-source legal dataset with a focus on the US supreme court
+    * Investigated conversational behaviors in the courtroom; One related paper is under review 
+
 * Tutor at School of Computing and Information Systems, University of Melbourne (VIC, Australia), 2020, Semester 1
   * Course: Natural Language Processing COMP90042 
 
