@@ -38,7 +38,7 @@ Awards and Additional Certificates
 ======
 * 2022: 1st Place, <a href="https://www.alta.asn.au/events/sharedtask2022/"><u>ALTA Shared Task 2022</u></a>
 * 2021: 2nd Place, <a href="https://www.alta.asn.au/events/sharedtask2021/"><u>ALTA Shared Task 2021</u></a>
-* 2018-Present: Melbourne Research Scholarship
+* 2018-2022: Melbourne Research Scholarship
 * 2017: 1st Class Scholarship (Top 5% at school)
 * 2017: 1st Prize, The 26th Software Design Competition, GuangDong
 * 2016: 1st Class Scholarship (Top 5% at school)

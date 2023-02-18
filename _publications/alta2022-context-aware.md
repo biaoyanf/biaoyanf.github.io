@@ -2,7 +2,7 @@
 title: "Context-Aware Sentence Classification in Evidence-Based Medicine"
 collection: publications
 permalink: /publication/alta2022-context-aware
-date: 2022-12-08
+date: 2022-04-08
 venue: 'Proceedings of the Australasian Language Technology Association Workshop 2022'
 paperurl: 'http://biaoyanf.github.io/files/papers/alta2022-context-aware.pdf'
 paperurltext: 'Link to Paper'

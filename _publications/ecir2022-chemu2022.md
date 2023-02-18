@@ -2,7 +2,7 @@
 title: "The ChEMU 2022 Evaluation Campaign: Information Extraction in Chemical Patents"
 collection: publications
 permalink: /publication/ecir2022-chemu2022
-date: 2022-08-10
+date: 2022-04-10
 venue: 'Proceedings of the 44rd European Conference on Information Retrieval'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-99739-7_50'
 paperurltext: 'Link to Springer'
